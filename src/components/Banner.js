@@ -58,7 +58,7 @@ function Banner() {
                             {({ isVisible }) =>
                                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                                     <span className="tagline">Welcome to my Portfolio</span>
-                                    <h1>{`Hi! I'm Rohit`}</h1> <h2><span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Frontend developer", "Backend developer" ]'><span className="wrap">{text}</span></span></h2>
+                                    <h1>{`Hi! I'm Manasa`}</h1> <h2><span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Frontend developer", "Backend developer" ]'><span className="wrap">{text}</span></span></h2>
                                     <p>Aspiring Fullstack Developer specialised in React and Java, based in Hyderabad. Eager to apply my academic knowledge and project experience in developing innovative web applications. Aiming to contribute effectively in a professional tech environment, leveraging my skills in both front-end and back-end development.</p>
                                     <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
                                 </div>}
