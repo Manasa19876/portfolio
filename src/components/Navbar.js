@@ -41,7 +41,7 @@ function NavBar({ setMode, mode }) {
         <Container>
           <Navbar.Brand href="#home">
             {/* <img src={Rohit} alt="logo" /> */}
-            <h2>Rohit.</h2>
+            <h2>Manasa.</h2>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav">
             <span className="navbar-toggler-icon"></span>
