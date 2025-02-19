@@ -40,13 +40,10 @@ function Skills() {
                             <h2>Skills</h2>
                             <div className="skills">
                                 <ul>
-                                    <li>Languages : Java , C/C++</li>
-                                    <li>IT Constructs : Basic DSA, OS , OOPS ,DBMS, Computer Networks</li>
-                                    <li>Fullstack Web Development: </li>
+                                    <li>Languages : Java , C/C++, Python</li>
                                     <li>Frontend :  Html, Css, Javascript, React js, Bootstrap </li>
-                                    <li>Backend  :  Spring Framework , Spring Boot, Spring Mvc, Hibernate</li>
                                     <li>Database :  MySQL</li>
-                                    <li>Development Tools : Microsoft VS Code , Spring Tool suite, Eclipse</li>
+                                    <li>Development Tools : Microsoft VS Code , Eclipse, Githib</li>
                                 </ul>
                             </div>
                             <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider" >
